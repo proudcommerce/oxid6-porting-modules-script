@@ -8,7 +8,7 @@ Usage
 
 `sh oxid6-port_modules.sh`
 
-You also can use the folliwng env variables:
+You also can use the following env variables:
 
 `-e OLD_MODULE_NAME= -e FIX_CODESNIFFER=yes -e RUN_TESTS=yes -e RUN_CODESNIFFER=yes -e AUTO_REPLACE_OLD_CLASSNAMES=yes -e MODULE_NAME=$(ARGS)`
 
